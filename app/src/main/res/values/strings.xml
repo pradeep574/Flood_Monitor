@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Flood Monitor</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="back">Back</string>
+    <string name="attrib_format">Data from &lt;a href = "%s">data.gov.au&lt;/a>, modified under &lt;a href = \"https://creativecommons.org/licenses/by/3.0/au/\">CC BY 3.0 AU&lt;/a></string>
+    <string name="rotate" />
+    <string name="tilt">tilt</string>
+    <string name="zoom_gestures">zoom_gestures</string>
+    <string name="scroll">scroll</string>
+    <string name="mylocation_layer">mylocation_layer</string>
+    <string name="mylocation_button">mylocation_button</string>
+    <string name="compass">compass</string>
+    <string name="zoom_buttons">zoom_buttons</string>
+    <string name="map_not_ready">Map is not ready yet</string>
+    <string name="location_permission_denied" />
+    <string name="permission_required_toast" />
+    <string name="permission_rationale_location" />
+
+    <string name="button_radius">Radius</string>
+    <string name="button_gradient">Gradient</string>
+    <string name="button_opacity">Opacity</string>
+
+
+    <string name="police_stations">Police Stations in Victoria</string>
+    <string name="medicare">Medicare Offices</string>
+    <string name="radar">Radar Scan</string>
+    <string-array name="heatmaps_datasets_array">
+        <item>@string/police_stations</item>
+        <item>@string/medicare</item>
+        <item>@string/radar</item>
+    </string-array>
+
+    <array name="topics">
+        <item>notifications</item>
+        <item>promotional_messages</item>
+    </array>
+
+    <string name="police_stations_url">https://data.gov.au/dataset/police-station-locations/resource/76110b24-0f0a-4c29-9583-3f99eaba486c</string>
+    <string name="medicare_url">https://data.gov.au/dataset/location-of-medicare-offices/resource/5d38e1be-4011-49c4-8b8b-75405eeb1088</string>
+    <string name="welcome_to_your_profile">Welcome to Your Profile</string>
+    <string name="get_data">Get Data</string>
+    <string name="maps">Maps</string>
+    <string name="get">GET</string>
+    <string name="notification">NOTIFICATION</string>
+    <string name="subscribe">Subscribe</string>
+
+</resources>
